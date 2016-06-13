@@ -1,0 +1,25 @@
+{
+  "name": "angular-gulp",
+  "version": "0.0.1",
+  "description": "\"scaleable angular app architecture with gulp\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Husamui/angular-gulp.git"
+  },
+  "keywords": [
+    "\"angular-gulp",
+    "build-system",
+    "scaleable-angular",
+    "angular-seed\""
+  ],
+  "author": "Husam Alrubaye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Husamui/angular-gulp/issues"
+  },
+  "homepage": "https://github.com/Husamui/angular-gulp#readme"
+}
