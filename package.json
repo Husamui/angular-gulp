@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Husamui/angular-gulp/issues"
   },
-  "homepage": "https://github.com/Husamui/angular-gulp#readme"
+  "homepage": "https://github.com/Husamui/angular-gulp#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
 }
