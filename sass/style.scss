@@ -1,0 +1,22 @@
+/*
+* Style.scss this file will import all other scss files
+* and will be compiled into one single css file.
+*
+* to create new scss file:
+* 1. should start with _
+* 2. should be imported here
+*
+*/
+
+
+/* import base files   */
+@import "base/colors";
+@import "base/fonts";
+@import "base/globals";
+@import "base/helpers";
+
+/* import components files */
+@import "components/sidebar";
+
+/* import modules files */
+@import "modules/home";
